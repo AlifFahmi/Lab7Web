@@ -1,5 +1,5 @@
 # Lab7Web
-Latihan_4 11-5-2022
+Latihan_7 11-5-2022
 
 ## Membuat PHP Dasar
 Buat file baru dengan nama `php_dasar.php`
